@@ -4,7 +4,7 @@ body{
     font-family: sans-serif;
     background-image:url(greenimage2.jpg) ;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 .box h1{
     color:  rgba(50, 196, 5, 0.87);
